@@ -1,0 +1,7 @@
+model\Task.class
+Main.class
+model\Priority.class
+manager\TaskManager$1.class
+manager\TaskManager.class
+utils\JsonHandler.class
+model\Status.class
